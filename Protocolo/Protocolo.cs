@@ -1,5 +1,6 @@
 ﻿using System.Linq;
-
+//Práctica 07
+//Bryan Lugmania
 namespace Protocolo
 {
     public class Pedido
